@@ -105,7 +105,8 @@ CREATE TABLE Table_Name (
 
 **Question 1**
 --
--- Paste Question 1 here
+<img width="948" height="306" alt="image" src="https://github.com/user-attachments/assets/33d6db9f-fc0e-4123-93ec-15566d6cf015" /><img width="355" height="306" alt="image" src="https://github.com/user-attachments/assets/58783348-5f3e-4aa5-a872-f484467edd02" />
+
 
 ```sql
 -- Paste your SQL code below for Question 1
